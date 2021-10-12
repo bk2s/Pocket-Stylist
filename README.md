@@ -9,14 +9,14 @@ AI based app for analyse background photo and generate color palette with dress 
 
 ## Used frameworks
 
-🟢 ChameleonFramework 
+🟢 CoreML Model
 
-🟢 KDCircularProgress
+🟢 Palette
 
-🟢 GradientView
+🟢 UIImageColors
 
-🟢 Realm
+🟢 DominantColor
 
-🟢 SwipeCellKit
+🟢 Grand Central Dispatch
 
   
